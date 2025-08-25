@@ -3,5 +3,6 @@ public class l2 {
         System.out.println("Hello World");
         System.out.println("Hello and welcome!");
         System.out.println("ohh yahh daddy please");
+        System.out.println(" please ohh yahh daddy");
     }
 }
